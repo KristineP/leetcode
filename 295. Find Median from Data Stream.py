@@ -1,4 +1,4 @@
-# sortlist or min-max heap. the time complexity is O(nlogn)
+# sortlist or min-max heap. the time complexity of addNum() is O(logn)
 class MedianFinder:
 
     def __init__(self):
